@@ -7,7 +7,7 @@ Website Replication Assessment
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reddit Vibe - Filipino Edition</title>
+    <title>Reddit</title>
     <style>
         body {
             font-family: Arial, sans-serif;
